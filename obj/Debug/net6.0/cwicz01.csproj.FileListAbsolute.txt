@@ -1,0 +1,15 @@
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\bin\Debug\net6.0\cwicz01.exe
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\bin\Debug\net6.0\cwicz01.deps.json
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\bin\Debug\net6.0\cwicz01.runtimeconfig.json
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\bin\Debug\net6.0\cwicz01.dll
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\bin\Debug\net6.0\cwicz01.pdb
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\cwicz01.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\cwicz01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\cwicz01.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\cwicz01.AssemblyInfo.cs
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\cwicz01.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\cwicz01.dll
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\refint\cwicz01.dll
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\cwicz01.pdb
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\cwicz01.genruntimeconfig.cache
+C:\Users\natal\Desktop\studia\sem1_wiosna23\programowanie cwiczenia\cwicz01\obj\Debug\net6.0\ref\cwicz01.dll
